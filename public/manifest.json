@@ -1,0 +1,14 @@
+{
+	"name": "Edit Design Co Business Card",
+	"icons": [
+		{
+			"src": "/edit-logo.png",
+			"sizes": "any"
+		}
+	],
+	"display": "standalone",
+	"background_color": "#691A1B",
+	"theme_color": "#691A1B",
+	"id": "business-card",
+	"start_url": "/"
+}
